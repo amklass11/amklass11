@@ -1,9 +1,9 @@
 # Hi, I'm Amk!
 
 A Full-stack web developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
+# Available for cool projects Lets talk!!!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amk-lass-521565196/)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](lassanaa14@gmail.com)
 
 ⚡Fun Fact: I'm in the top 1% [GitHub commits in Nigeria](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/nigeria.md)😎
 
