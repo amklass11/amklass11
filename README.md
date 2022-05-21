@@ -7,11 +7,6 @@ A Full-stack web developer. I enjoy building pixel-perfect user interfaces with 
 
 ⚡Fun Fact: I'm in the top 1% [GitHub commits in Nigeria](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/nigeria.md)😎
 
-#### Latest Blog Post
-
-- [To-Do List with Observer Pattern](https://dev.to/devusman/to-do-list-with-observer-pattern-1cl7)
-- [Drag Sort with HTML5](https://dev.to/devusman/drag-drop-sort-list-1ap4)
-
 ## Languages, Frameworks & Libraries
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -24,7 +19,7 @@ A Full-stack web developer. I enjoy building pixel-perfect user interfaces with 
 
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmansbk&count_private=true&show_icons=true&theme=onedark)](https://github.com/amklass11/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amklass11&count_private=true&show_icons=true&theme=onedark)](https://github.com/amklass11/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansbk&layout=compact&theme=onedark)](https://github.com/amklass11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amklass11&layout=compact&theme=onedark)](https://github.com/amklass11/github-readme-stats)
 
